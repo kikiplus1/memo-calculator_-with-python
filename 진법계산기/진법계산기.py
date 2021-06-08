@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[33]:
-
 
 from tkinter import *
 window = Tk()
@@ -56,22 +51,6 @@ b2 = Button(window, text = "10진법->2진법",command=ten)
 b1.grid(row=1)
 b2.grid(row=2)
 window.mainloop()
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
