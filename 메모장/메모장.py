@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[10]:
 
 
 from tkinter import *
@@ -248,11 +244,4 @@ frame2.pack(side = 'left')
 window.mainloop()
 
 
-    
-
-
-# In[ ]:
-
-
-
-
+ 
