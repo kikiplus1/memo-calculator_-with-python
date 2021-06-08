@@ -1,7 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[13]:
 
 
 from tkinter import *     # 파이썬에서 GUI 구현 가능한 모듈을 불러온다.
@@ -177,15 +173,6 @@ blank2 = Button(window, text = "16진법", width=5, height =2, command=hx).grid(
 blank4 = Button(window, text = "", width=5, height =2).grid(row=6, column =3)
 
 window.mainloop()
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
 
 
 
